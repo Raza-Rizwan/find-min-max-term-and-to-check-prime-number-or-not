@@ -1,0 +1,5 @@
+a=int(input("Please Enter a Number"))
+b=int(input("Please Enter a another number"))
+c=float(input('Arthmatic Operations'))
+
+print
